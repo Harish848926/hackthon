@@ -1,0 +1,10 @@
+streamlit
+openai
+python-dotenv
+pillow
+numpy
+pandas
+datasets
+sentence-transformers
+faiss-cpu
+scikit-learn
